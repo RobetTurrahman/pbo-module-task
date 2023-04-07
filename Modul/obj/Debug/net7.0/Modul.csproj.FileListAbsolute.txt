@@ -1,0 +1,15 @@
+/Users/user/Documents/Modul/obj/Debug/net7.0/Modul.csproj.AssemblyReference.cache
+/Users/user/Documents/Modul/obj/Debug/net7.0/Modul.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/Modul/obj/Debug/net7.0/Modul.AssemblyInfoInputs.cache
+/Users/user/Documents/Modul/obj/Debug/net7.0/Modul.AssemblyInfo.cs
+/Users/user/Documents/Modul/obj/Debug/net7.0/Modul.csproj.CoreCompileInputs.cache
+/Users/user/Documents/Modul/bin/Debug/net7.0/Modul
+/Users/user/Documents/Modul/bin/Debug/net7.0/Modul.deps.json
+/Users/user/Documents/Modul/bin/Debug/net7.0/Modul.runtimeconfig.json
+/Users/user/Documents/Modul/bin/Debug/net7.0/Modul.dll
+/Users/user/Documents/Modul/bin/Debug/net7.0/Modul.pdb
+/Users/user/Documents/Modul/obj/Debug/net7.0/Modul.dll
+/Users/user/Documents/Modul/obj/Debug/net7.0/refint/Modul.dll
+/Users/user/Documents/Modul/obj/Debug/net7.0/Modul.pdb
+/Users/user/Documents/Modul/obj/Debug/net7.0/Modul.genruntimeconfig.cache
+/Users/user/Documents/Modul/obj/Debug/net7.0/ref/Modul.dll
